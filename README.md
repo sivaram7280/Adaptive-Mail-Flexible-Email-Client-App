@@ -1,3 +1,5 @@
 # Adaptive-Mail-Flexible-Email-Client-App
 
-Demo link "https://youtu.be/d75Q8zeFlY4"
+Video Demonstration link "https://youtu.be/d75Q8zeFlY4"
+
+Google Developers profile link "https://g.dev/sivaramrk"
